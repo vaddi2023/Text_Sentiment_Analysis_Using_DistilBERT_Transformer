@@ -1,0 +1,16 @@
+
+
+# Core PyTorch and Transformers
+torch
+transformers
+datasets
+
+# Data processing & visualization
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Optional for development & deployment
+jupyter
+notebook
