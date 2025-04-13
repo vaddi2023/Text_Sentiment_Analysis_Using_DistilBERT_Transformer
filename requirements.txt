@@ -1,35 +1,12 @@
-<<<<<<< HEAD
-
-
-# Core PyTorch and Transformers
-torch
-transformers
-datasets
-
-# Data processing & visualization
-pandas
-matplotlib
-seaborn
-scikit-learn
-
-# Optional for development & deployment
-jupyter
-notebook
-=======
-
-
-# Core PyTorch and Transformers
-torch
-transformers
-datasets
-
-# Data processing & visualization
-pandas
-matplotlib
-seaborn
-scikit-learn
-
-# Optional for development & deployment
-jupyter
-notebook
->>>>>>> a5899c5c84c576c3ba106c2912a34d650c2d68e4
+torch>=1.13.0
+transformers>=4.25.0
+datasets>=2.7.0
+scikit-learn>=1.1.0
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.2
+gradio>=3.0.0
+nltk>=3.6.7
+textblob>=0.17.1
+tqdm>=4.64.0
